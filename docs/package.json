@@ -47,6 +47,7 @@
   },
   "overrides": {
     "braces@<=3.0.3": "3.0.3",
-    "path-to-regexp@<=3.3.0": "3.3.0"
+    "path-to-regexp@<=3.3.0": "3.3.0",
+    "micromatch@<=4.0.8": "4.0.8"
   }
 }
